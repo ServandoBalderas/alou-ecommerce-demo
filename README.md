@@ -4,9 +4,9 @@ Una tienda **ficticia y educativa** desarrollada para el portafolio de **Alou™
 
 ## Vista previa
 
-![Vista previa de escritorio de ALOU GOODS](preview/desktop-hero.png)
+![Vista previa de escritorio de ALOU GOODS](preview/desktop-hero.webp)
 
-[Ver captura completa de escritorio](preview/desktop.png) · [Ver captura móvil](preview/mobile.png)
+[Ver captura completa de escritorio](preview/desktop.webp) · [Ver captura móvil](preview/mobile.webp)
 
 ## Características
 
